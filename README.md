@@ -1,7 +1,7 @@
 # ann1001
 <img width="4236" height="1083" alt="Banner gg form" src="https://github.com/user-attachments/assets/57fae084-163e-4b0f-90bd-ffeda7be185d" />
 
-<img width="941" height="295" alt="GitHub (1)" src="https://github.com/user-attachments/assets/aa82c47f-6c58-4174-81f2-7bef5ddc4955" />
+<img width="970" height="295" alt="GitHub (2)" src="https://github.com/user-attachments/assets/226e5399-d39a-49e0-9dff-3c5e36f702ec" />
 
 🙋‍♀️ Greeting! We are a team of students who love to collect and share learning materials of our university, focusing on our major of Computer Network for now.
 
