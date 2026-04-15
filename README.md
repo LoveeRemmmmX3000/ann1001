@@ -1,7 +1,5 @@
 # ann1001
-<img width="4236" height="1083" alt="Banner gg form" src="https://github.com/user-attachments/assets/57fae084-163e-4b0f-90bd-ffeda7be185d" />
-
-<img width="941" height="295" alt="GitHub (1)" src="https://github.com/user-attachments/assets/ef1c48b7-e33b-4d5e-8d16-a111cae8a36a" />
+![alt text](GitHub.png)
 
 🙋‍♀️ Greeting! We are a team of students who love to collect and share learning materials of our university, focusing on our major of Computer Network for now.
 
@@ -9,4 +7,4 @@
 
 🔍 If you want to contact us, check out the Facebook fanpage or email in the header above.
 
-<img width="4236" height="1083" alt="LinkedIn" src="https://github.com/user-attachments/assets/220852ff-30fe-4967-a4dc-6889b2420753" />
+
